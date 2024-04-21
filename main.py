@@ -14,7 +14,7 @@ import numpy as np
 import matplotlib.image as mpimg
 import cv2
 from docopt import docopt
-from IPython.display import HTML, Video
+# from IPython.display import HTML, Video
 from moviepy.editor import VideoFileClip
 from CameraCalibration import CameraCalibration
 from Thresholding import *
